@@ -1,7 +1,10 @@
 # Tableau_practice_and_learnings
  skill showoff
+<<<<<<< HEAD
 
 
 1. My First Edit
 
 2. My Second Edit
+=======
+>>>>>>> parent of eb1c83c (My very firat Tableau Dashboard)
